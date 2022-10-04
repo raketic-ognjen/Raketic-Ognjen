@@ -1,7 +1,3 @@
-<!--
-
-**Raketic-Ognjen/Raketic-Ognjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on obtain MEng in Computational Finance<br>👯 I’m looking to collaborate on ML and DeFI projects<br>🤝 I’m looking for help with getting solid knowledge<br>🌱 I’m currently learning Python, Solidity and Financial Markets<br>💬 Ask me about Books, Philosophy, Innovations and Programming<br>⚡ Fun facts:Father of little Jedi, MEng in Innovation Engineering, BJJ Blue Belt and German Culture Lover
 
