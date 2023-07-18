@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-### Hi, my name is Ognjen 👋 and I ❤️ Finance and Math
+### Hi, my name is Ognjen, Husband, Father of the One, Engineer^2 👋 and I ❤️ Innovations, Finance and Math 
 
-**Field of interests**: Machine Learning, Investment, Programming and Scientific Programming
+**Field of interests**: Innovations, Machine Learning, Investment, Programming and Scientific Programming
 
 <!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)])-->
 
@@ -33,12 +33,12 @@
 - [Bachelor's Degree - Engineering Management] @ School of Engineering Management, Belgrade (2015 - 2019)
 
 ### Projects 🐾
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
-- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+- [Master's Thesis](https://www.kaggle.com/code/ognjenr23/multivariate-predictability-in-assets-and-factors) - Multivariate Predictability in Assets and Factors - Practical Approach of Machine Learning in Finance
+- [RLLib]
+- [MUSE as Service]
+- [PyTorch NER]
+- [Text Classification Baseline]
+- [Graph-Based Clustering]
 
 ### Public talks 🗣
 - [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
