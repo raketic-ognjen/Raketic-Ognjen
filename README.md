@@ -14,7 +14,7 @@
 - **Languages**:&nbsp;                         Python, R, SQL
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Keras
 - **Python Libraries**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas, Matplotlib, NumPy, SciPy, SimPy, Seaborn, SciKit-Learn
-- **Other Tech skills**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Kaggle
+- **Other Tech skills**: &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Kaggle
 
 ### Work experience 👔
 | Job Position           | Company         | Field                         | Work Period       |
@@ -46,17 +46,12 @@
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)@ Kaggle
 - [Pandas Python Library](https://www.kaggle.com/learn/pandas) @ Kaggle
 
-<!--- ### Conference participation & Science Publications 📈
+### Conference participation & Science Publications 📈
 - Scientific Conference CIBEK 2018 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
 - Scientific Conference CIBEK 2019 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
 - Sci Paper [IT solutions for human resources management](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JCZFJn8AAAAJ&citation_for_view=JCZFJn8AAAAJ:9yKSN-GCB0IC) @ Serbian Journal of Engineering Management
 - Sci Paper [Comparative Analysis of Critical Factors in Managing Innovation Process: An Example of IT companies](http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/1537/1304) @ Faculty of Technical Science
 
-### Hackathon participation 💻
-- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
-- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
 
 ### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [25k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+- Kaggle contributor[Kaggle](https://www.kaggle.com/ognjenr23)
