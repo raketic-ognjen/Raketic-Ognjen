@@ -4,26 +4,64 @@
 
 **Field of interests**: Machine Learning, Investment, Programming and Scientific Programming
 
-<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+<!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)])-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raketic-Ognjen&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raketic-Ognjen&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raketic-Ognjen&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Skills 🛠️
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raketic-Ognjen&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+- **Languages**:&nbsp;                         Python, R, SQL
+- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Keras
+- **Python Libraries**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas, Matplotlib, NumPy, SciPy, SimPy, Seaborn, SciKit-Learn
+- **Other Tech skills**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Kaggle
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Ognjen_MCF)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### Work experience 👔
+| Job Position           | Company         | Field                         | Work Period       |
+| ---------------------- | --------------- | ----------------------------- | ----------------- |
+| **Consulting Engineer**| **Furni**       | **ML, Consulting & Coaching** | **09-2022 — now** |
+| Process Engineer       | Vendomnia       | Consulting, ISO Standards     | 01-2022 — 05-2022 |
+| CTO & Engineer         | Inko National   | Finance & Production          | 06-2021 — 01-2022 |
+| Research Consultant    | Phi Academy     | Scientific Researching        | 03-2021 — 09-2021 |
+| Innovation Consultant  | INAT Centre     | Agile & DT, Project Management| 02-2017 — 12-2021 |
+| Shift Leader           | Vital Vrbas     | Production planning & Agile   | 11-2015 — 09-2019 |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### Education 🎓
+- [Master’s Degree - Computational Finance] @ School of Computing, Belgrade (2022 - now)
+- [Master’s Certificate - Computational Finance] @ Collegio Carlo Alberto, Turin (2023 - 2023)
+- [Master’s Degree - Engineering Management] @ Faculty of Technical Sciences, University of Novi Sad (2019 - 2020)
+- [Bachelor's Degree - Engineering Management] @ School of Engineering Management, Belgrade (2015 - 2019)
 
----
-[![](https://visitcount.itsvg.in/api?id=Raketic-Ognjen&icon=6&color=2)](https://visitcount.itsvg.in)
+### Projects 🐾
+- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
+- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
+- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
+- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
+- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+
+### Public talks 🗣
+- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
+- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
+- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
+- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
+- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
+
+### Certifications 📜
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+
+<!--- ### Conference participation 📈
+- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
+- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
+
+### Hackathon participation 💻
+- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
+- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
+
+### Achievements 🏆
+- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [25k+](https://pepy.tech) downloads
+- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
+- Open Data Science **Best Contributor 2020**
