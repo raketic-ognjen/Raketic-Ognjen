@@ -27,18 +27,18 @@
 | Shift Leader           | Vital Vrbas     | Production planning & Agile   | 11-2015 — 09-2019 |
 
 ### Education 🎓
-- [Master’s Degree - Computational Finance] @ School of Computing, Belgrade (2022 - now)
-- [Master’s Certificate - Computational Finance] @ Collegio Carlo Alberto, Turin (2023 - 2023)
-- [Master’s Degree - Engineering Management] @ Faculty of Technical Sciences, University of Novi Sad (2019 - 2020)
-- [Bachelor's Degree - Engineering Management] @ School of Engineering Management, Belgrade (2015 - 2019)
+- [Master’s Degree - Computational Finance](https://mcf.raf.edu.rs/) @ School of Computing, Belgrade (2022 - now)
+- [Master’s Certificate - Computational Finance](https://www.carloalberto.org/) @ Collegio Carlo Alberto, Turin (2023 - 2023)
+- [Master’s Degree - Engineering Management](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)@ Faculty of Technical Sciences, University of Novi Sad (2019 - 2020)
+- [Bachelor's Degree - Engineering Management](https://fim.edu.rs/en/homepage/) @ School of Engineering Management, Belgrade (2015 - 2019)
 
 ### Projects 🐾
 - [Master's Thesis](https://www.kaggle.com/code/ognjenr23/multivariate-predictability-in-assets-and-factors) - Multivariate Predictability in Assets and Factors - Practical Approach of Machine Learning in Finance
-- [RLLib]
-- [MUSE as Service]
-- [PyTorch NER]
-- [Text Classification Baseline]
-- [Graph-Based Clustering]
+- [Testing Portfolio Theories](https://www.kaggle.com/code/ognjenr23/optimal-portfolio-building-using-machine-learning) - Optimal Portfolio Building using Machine Learning Techniques and Monte Carlo Simulation
+- [Testing Markowitz Portfolio Optimization in Practice] - Henry Markowitz's Porfolio optimization using Python and large dataset
+- [Capital Assets Market Pricing in Practice] - Practical Analysis of CAPM Theory in Practice with Python and large dataset
+- [Personal Blog](https://medium.com/@ognjen.raketic) - Blog about Computational Finance
+
 
 ### Public talks 🗣
 - [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
