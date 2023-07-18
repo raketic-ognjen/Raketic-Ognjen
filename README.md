@@ -40,22 +40,17 @@
 - [Personal Blog](https://medium.com/@ognjen.raketic) - Blog about Computational Finance
 
 
-### Public talks 🗣
-- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
-- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
-
 ### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+- [Intro to programming)](https://www.kaggle.com/learn/certification/ognjenr23/intro-to-programming) @ Kaggle
+- [Python Programming)](https://www.kaggle.com/learn/certification/ognjenr23/python) @ Kaggle
+- [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)@ Kaggle
+- [Pandas Python Library](https://www.kaggle.com/learn/pandas) @ Kaggle
 
-<!--- ### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
+<!--- ### Conference participation & Science Publications 📈
+- Scientific Conference CIBEK 2018 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
+- Scientific Conference CIBEK 2019 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
+- Sci Paper [IT solutions for human resources management](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JCZFJn8AAAAJ&citation_for_view=JCZFJn8AAAAJ:9yKSN-GCB0IC) @ Serbian Journal of Engineering Management
+- Sci Paper [Comparative Analysis of Critical Factors in Managing Innovation Process: An Example of IT companies](http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/1537/1304) @ Faculty of Technical Science
 
 ### Hackathon participation 💻
 - [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
