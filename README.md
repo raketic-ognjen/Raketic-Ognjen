@@ -41,8 +41,8 @@
 
 
 ### Certifications 📜
-- [Intro to programming)](https://www.kaggle.com/learn/certification/ognjenr23/intro-to-programming) @ Kaggle
-- [Python Programming)](https://www.kaggle.com/learn/certification/ognjenr23/python) @ Kaggle
+- [Intro to programming](https://www.kaggle.com/learn/certification/ognjenr23/intro-to-programming) @ Kaggle
+- [Python Programming](https://www.kaggle.com/learn/certification/ognjenr23/python) @ Kaggle
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)@ Kaggle
 - [Pandas Python Library](https://www.kaggle.com/learn/pandas) @ Kaggle
 
