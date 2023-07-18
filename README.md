@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### Hi, my name is Ognjen, Husband, Father of the One, Engineer^2 👋 and I ❤️ Innovations, Finance and Math 
+### Hi, my name is Ognjen, Husband, Father of the One, Master in Engineering^2 👋 and I ❤️ Innovations, Finance and Math 
 
 **Field of interests**: Innovations, Machine Learning, Investment, Programming and Scientific Programming
 
