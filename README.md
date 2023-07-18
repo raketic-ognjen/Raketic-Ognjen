@@ -4,7 +4,7 @@
 
 **Field of interests**: Innovations, Machine Learning, Investment, Programming and Scientific Programming
 
-<!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)])-->
+**Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)])
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) 
