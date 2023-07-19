@@ -1,16 +1,18 @@
-<p align="center">
-  <a href="https://github.com/raketic-ognjen">
-</p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/raketic-ognjenreadme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 ### Hi, my name is Ognjen, Husband, Father of the One, Master in Engineering^2 👋 and I ❤️ Innovations, Finance and Math 
 
 **Field of interests**: Innovations, Machine Learning, Investment, Programming and Scientific Programming
+
+<p align="center">
+  <a href="https://github.com/raketic-ognjenreadme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!;Myr%20namer%20isr%20Ognjen;Husband;Father%20ofr%20ther%20OneExperienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C59018&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/raketic-ognjenreadme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Husband;Father%20ofr%20ther%20One;Master%20in%20Engineering^2;Fields%20of%20interest:%20Innovations,%20Machine%20Learning,%20Investment,%20Programming,%20Science&font=Roboto%20Slab%20Code&center=true&width=440&height=45&color=C59018&vCenter=true&pause=1000&size=30" /></a>
+</p>
 
 <!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)]) -->
 
