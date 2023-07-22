@@ -13,7 +13,7 @@
 - **Languages**:&nbsp;                         Python, R, SQL
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Keras
 - **Python Libraries**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas, Matplotlib, NumPy, SciPy, SimPy, Seaborn, SciKit-Learn
-- **Other Tech skills**: &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Kaggle, Excel, Power Point, Word, Google Colaboratory
+- **Other Tech skills**: &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Kaggle, Excel, Power Point, Word, Google Colaboratory, Anaconda
 
 ### Work experience 👔
 | Job Position           | Company         | Field                         | Work Period       |
