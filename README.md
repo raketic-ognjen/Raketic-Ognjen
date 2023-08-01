@@ -18,7 +18,8 @@
 ### Work experience 👔
 | Job Position           | Company         | Field                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Consulting Engineer**| **Furni**       | **ML, Consulting & Coaching** | **09-2022 — now** |
+| **DS Specialist**      | **Free Agent**  | **Open for new opportunities**| **08-2023 — now** |
+| Consulting Engineer    | Furni           | ML, Consulting & Coaching     | 09-2022 — 08-2023 |
 | Process Engineer       | Vendomnia       | Consulting, ISO Standards     | 01-2022 — 05-2022 |
 | CTO & Engineer         | Inko National   | Finance & Production          | 06-2021 — 01-2022 |
 | Research Consultant    | Phi Academy     | Scientific Researching        | 03-2021 — 09-2021 |
