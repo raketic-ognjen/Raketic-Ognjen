@@ -50,7 +50,7 @@
 - Scientific Conference CIBEK 2018 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
 - Scientific Conference CIBEK 2019 [Conference](https://fim.edu.rs/en/research-and-cooperation/scientific-meetings-and-projects/circular-and-bioeconomy/) as Speaker
 - Sci Paper [IT solutions for human resources management](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JCZFJn8AAAAJ&citation_for_view=JCZFJn8AAAAJ:9yKSN-GCB0IC) @ Serbian Journal of Engineering Management
-- Sci Paper [Comparative Analysis of Critical Factors in Managing Innovation Process: An Example of IT companies](http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/1537/1304) @ Faculty of Technical Science
+- Sci Paper [Comparative Analysis of Critical Factors in Managing Innovation Process: An Example of IT companies](http://www.ftn.uns.ac.rs/ojs/index.php/zbornik/article/view/1537/1304) @ Faculty of Technical Sciences, 
 
 
 ### Achievements 🏆
