@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/raketic-ognjenreadme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here!;Husband;Father%20of%20the%20One;Master%20in%20Engineering^2;Fields%20of%20interest:;Innovations;Machine%20Learning;Investment;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=C59018&vCenter=true&pause=600&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here!;Husband;Father%20of%20the%20One;Master%20in%20Engineering^2;Fields%20of%20interest:;Innovations;FinTech;Machine%20%Learning;Investment;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=C59018&vCenter=true&pause=600&size=22" /></a>
 </p>
 
 <!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)]) -->
