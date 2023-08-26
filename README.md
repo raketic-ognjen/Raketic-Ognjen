@@ -8,6 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) 
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Skills 🛠️
 
 - **Languages**:&nbsp;                         Python, R, SQL
@@ -56,10 +58,3 @@
 ### Achievements 🏆
 - Kaggle contributor [Kaggle](https://www.kaggle.com/ognjenr23)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Python          20 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   85.33 %
-R                4 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   14.67 %
-```
