@@ -8,6 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) 
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ```yaml
 name: Ognjen Raketic
 located_in: Vrbas, Serbia
@@ -56,8 +58,6 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
     </a>
   </div>
 </p>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
