@@ -66,6 +66,11 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raketic-ognjen&repo=Homework1_QuantInvestment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <p align="center">
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/raketic-ognjen/count.svg" />
+</p>
   
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
