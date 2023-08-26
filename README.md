@@ -40,11 +40,25 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
 ```
 ---
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raketic-ognjen&theme=react&border=61dafb&hide_border=true" alt="raketic-ognjen" />
+    </a>
+    <a href="https://github.com/raketic-ognjen/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/raketic-ognjen/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raketic-ognjen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
+<p>[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </p>
 ---
 <p>
 <a href="https://github.com/raketic-ognjen/MiniProject2-QuantInvestment">
