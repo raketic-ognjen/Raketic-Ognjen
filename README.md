@@ -55,3 +55,11 @@
 
 ### Achievements 🏆
 - Kaggle contributor [Kaggle](https://www.kaggle.com/ognjenr23)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Python          20 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   85.33 %
+R                4 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   14.67 %
+```
