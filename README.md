@@ -18,13 +18,6 @@ job: Open to Work
 education: ["Master's in Computational Science", "Master's Engineering Management", "Bachelor's in Engineering Management"]
 company: Open to Work
 
-projects:
-  - [Master's Thesis](https://www.kaggle.com/code/ognjenr23/multivariate-predictability-in-assets-and-factors) - Multivariate Predictability in Assets and Factors - Practical Approach of Machine Learning in Finance
-  - [Testing Portfolio Theories](https://www.kaggle.com/code/ognjenr23/optimal-portfolio-building-using-machine-learning) - Optimal Portfolio Building using Machine Learning Techniques and Monte Carlo Simulation
-  - [Testing Markowitz Portfolio Optimization in Practice] - Henry Markowitz's Porfolio optimization using Python and large dataset
-  - [Capital Assets Market Pricing in Practice] - Practical Analysis of CAPM Theory in Practice with Python and large dataset
-  - [Personal Blog](https://medium.com/@ognjen.raketic) - Blog about Computational Finance
-
 past experiences: 
   - ["Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
   - ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management", "Novi Sad", "2022-2022"]
