@@ -56,7 +56,7 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
     </a>
   </div>
 </p>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/raketic-ognjen/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
