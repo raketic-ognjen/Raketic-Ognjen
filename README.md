@@ -10,6 +10,28 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+```yaml
+name: Ognjen Raketic
+located_in: Vrbas, Serbia
+from: Vrbas, Serbia
+job: Open to Work
+education: ["Master's in Computational Science", "Master's Engineering Management", "Bachelor's in Engineering Management"]
+company: Open to Work
+past experiences: 
+  - ["Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
+  - ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management", "Novi Sad", "2022-2022"]
+  - ["CTO & Engineer", "Inko National", "Finance & Production", "Vrbas", "2021-2022]
+  - ["Research Consultant", "PhiAcademy", "Scientific Researching  & Product Management", "Fully Remote", "2021-2021"]
+  - ["Innovation Consultant", "INAT Summit", "Agile & DT, Project Management", "Fully Remote", "2017-2021"]
+  - ["Shift Leader ", "Vital", "Production planning & Agile Transformator", "Vrbas", "2015-2019"]
+
+fields_of_interests: ["Investment Banking", "Risk Modelling", "Data Science", "Financial Computing", 
+                      "FinTech", "Machine Learning", "Optimization"]
+technical_background: ["Python", "R", "Linux", "Statistics", "Mathematics"]
+currently_learning: ["Investment", "Machine Learning", "Risk Modelling", "Data Science"]
+will_learn: ["FinTech"]
+hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
+```
 ### Skills 🛠️
 
 - **Languages**:&nbsp;                         Python, R, SQL
@@ -57,3 +79,11 @@
 
 ### Achievements 🏆
 - Kaggle contributor [Kaggle](https://www.kaggle.com/ognjenr23)
+
+- <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
