@@ -38,14 +38,30 @@ currently_learning: ["Investment", "Machine Learning", "Risk Modelling", "Data S
 will_learn: ["FinTech"]
 hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
 ```
+<h2 align="left">Coding Activity</h2>
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raketic-ognjen&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of Python 😛</small>
-  <br />
-  <br />
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raketic-ognjen&theme=react&border=61dafb&hide_border=true" alt="raketic-ognjen" />
+    </a>
+    <a href="https://github.com/raketic-ognjen/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/raketic-ognjen/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raketic-ognjen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
