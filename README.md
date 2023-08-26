@@ -46,9 +46,8 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
   <br />
   <br />
 </div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-- <p align="center">
+<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
 
