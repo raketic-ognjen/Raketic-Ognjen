@@ -41,9 +41,9 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
 ---
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/raketic-ognjen/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/raketic-ognjen/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/raketic-ognjen/raketic-ognjen/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/raketic-ognjen/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 ---
 <p>
