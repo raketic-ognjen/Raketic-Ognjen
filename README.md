@@ -52,5 +52,5 @@ hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2v2d5mt10rm2k1ib8l4jv37gm&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&count=5">
 </p>
