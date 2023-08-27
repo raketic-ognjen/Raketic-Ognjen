@@ -17,8 +17,8 @@ def bio(name,surname,location,job,education,company=None):
   location = str("Vrbas, Serbia")
   job = str("Open to Work")
   education = ["Master's student in Computational Science 2022-2023",
-  "Master's in Engineering Management 2019-2020",
-  "Bachelor's in Engineering Management 2015-2019"]
+               "Master's in Engineering Management 2019-2020",
+               "Bachelor's in Engineering Management 2015-2019"]
   company: str("Open to Work")
 
 
@@ -27,7 +27,7 @@ def past experiences(position, company, job_description,location,years):
   company2 = ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management", "Novi Sad", "2022-2022"]
   company3 = ["CTO & Engineer", "Inko National", "Finance & Production", "Vrbas", "2021-2022]
   company4 = ["Research Consultant", "PhiAcademy", "Scientific Researching  & Product Management",
-  "Fully Remote","2021-2021"]
+              "Fully Remote","2021-2021"]
   company5 = ["Innovation Consultant", "INAT Summit", "Agile & DT, Project Management", "Fully Remote", "2017-2021"]
   company6 = ["Shift Leader ", "Vital", "Production planning & Agile Transformator", "Vrbas", "2015-2019"]
 
