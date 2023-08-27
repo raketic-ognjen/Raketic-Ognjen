@@ -11,12 +11,14 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```py
-name: Ognjen Raketic
-located_in: Vrbas, Serbia
-from: Vrbas, Serbia
-job: Open to Work
-education: ["Master's in Computational Science", "Master's Engineering Management", "Bachelor's in Engineering Management"]
-company: Open to Work
+def bio(name,surname,location,job,education,company=None):
+  name = str('Ognjen')
+  surname = str('Raketic')
+  location = str('Vrbas, Serbia')
+  job = str('Open to Work)
+  education = str('Master'\ns student in Computational Science 2022-2023, Master'\ns in Engineering Management 2019-2020,    Bachelor'\ns in Engineering Management 2015-2019')
+  company: str('Open to Work)
+return: print(f'Hi there, I am {name}{surname}, come from {location}, and I am {education} by vocation. Currently, I am {company}')
 
 past experiences: 
   - ["Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
