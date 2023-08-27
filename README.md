@@ -11,9 +11,19 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raketic-ognjen&theme=github-dark-dimmed&custom_title=Ognjen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```py
-def bio(name,surname,location,job,education,company=None):
+def bio(name,surname,nick,location,job,education,company=None):
   name = Ognjen
   surname = Raketic
+  nick= []
+  for i in nick:
+  if Family==True:
+    return nick = Ogi
+  elif CloseFriend== True:
+    return nick = Serafim
+  elif Colleague==True:
+    return nick = Raketa
+  else:
+    return nick = name + surname
   location = Vrbas, Serbia
   job = Open To Work
   education = [Masters Student in Computational Science 2022-2023,
