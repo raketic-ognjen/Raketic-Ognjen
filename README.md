@@ -25,7 +25,7 @@ def family():
   fam = {"Wife" : Irena,
          "Since" : 26.06.2021,
          "Kid" : Srdja
-         "Since": 27.11.2021:}
+         "Since": 27.11.2021}
 
 def projects(name,programming_language,date):
   project1 = {"name": Risk Contributions On Client Portfolio,
@@ -111,9 +111,9 @@ def hobbies():
   hobby = {"Recovery" : Bike,
            "Reading" : Books,
            "Training" : Judo/BJJ(On Hold Due To TCL),
-           "Storytelling: Wines & Food,
+           "Storytelling": Wines & Food,
            "Academics" : Write Sci Papers,
-           "Travel : Across The Globe}
+           "Travel" : Across The Globe}
 ```
 
 <p>
