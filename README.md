@@ -99,13 +99,13 @@ def currently_learning():
   reading = {"Investment" : Bodie et al.,
              "Storytelling with data": Cole et al,,
              "Options, Futures & Other Derivatives" : John C. Hull,
-             "Effective Data Storytelling" : Brent Dykes
+             "Effective Data Storytelling" : Brent Dykes,
              "Robust Portfolio Optimization & Management" : Frank J.Fabozzi et al.,
              "Asset Management" : Andrew Ang,
              "Black Swan" : Nassim Nicholas Taleb}
-  testing = { "Portfolio" : Python
-              "Derivatives" : Python
-              "Financial Data Analysis" : R 
+  testing = { "Portfolio" : Python,
+              "Derivatives" : Python,
+              "Financial Data Analysis" : R}
 
 def hobbies():
   hobby = {"Recovery" : Bike,
