@@ -15,20 +15,20 @@ def bio(name,surname,location,job,education,company=None):
   name = Ognjen
   surname = Raketic
   location = Vrbas, Serbia
-  job = Open to Work
+  job = Open To Work
   education = [Masters Student in Computational Science 2022-2023,
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
   company = None
 
 def family():
-  fam = {"wife" : Irena,
+  fam = {"Wife" : Irena,
          "Since" : 26.06.2021,
          "Kid" : Srdja
          "Since": 27.11.2021:}
 
 def projects(name,programming_language,date):
-  project1 = {"name": Risk contributions on client portfolio,
+  project1 = {"name": Risk Contributions On Client Portfolio,
               "programming_language" : Python
               "date" : 01.10.2023}
   project2 = {"name": Making Real Portfolio & Prepare for MarketWatch,
@@ -40,7 +40,7 @@ def projects(name,programming_language,date):
   project4 = {"name": Finding Efficient frontier & Testing Portfolio Performances,
               "programming_language" : Python
               "date" : 30.08.2023}
-  project5 = {"name": Portfolio Optimization in Investment part 1,
+  project5 = {"name": Portfolio Optimization in Investment Part 1,
               "programming_language" : Python
               "date" : 26.08.2023}
 
@@ -100,7 +100,7 @@ def currently_learning():
              "Storytelling with data": Cole et al,,
              "Options, Futures and Other Derivatives" : John C. Hull,
              "Effective Data Storytelling" : Brent Dykes
-             "Robust Portfolio optimization and Management" : Frank J.Fabozzi et al.,
+             "Robust Portfolio Optimization and Management" : Frank J.Fabozzi et al.,
              "Asset Management" : Andrew Ang,
              "Black Swan" : Nassim Nicholas Taleb}
   testing = { "Portfolio" : Python
@@ -113,7 +113,7 @@ def hobbies():
            "Training" : Judo/BJJ(on hold due to TCL),
            "Storytelling: Wines & Food,
            "Academics" : Write Sci Papers,
-           "Travel : Across the Globe}
+           "Travel : Across The Globe}
 ```
 
 <p>
