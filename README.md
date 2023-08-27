@@ -23,7 +23,7 @@ def bio(name,surname,location,job,education,company=None):
 
 def family():
   fam = {"Wife" : Irena,
-         "Since" : 26.06.2021,
+         "Since" : 11.01.2016,
          "Kid" : Srdja
          "Since": 27.11.2021}
 
