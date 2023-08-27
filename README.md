@@ -97,9 +97,21 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
 ```
 ```py
 def skills(languages,ds,libraries):
-  languages = [Python, R, SQL]
-  ds = [PyTorch, Keras, TensorFlow]
-  librarries = [Pandas, Matplotlib, NumPy, SciPy, SymPy, Seaborn, SciKit-Learn]
+  languages = { "language1" : Python,
+                "language2" : R,
+                "language3" : SQL}
+  ds = {"ds_lib1": Keras,
+        "ds_lib2": TensorFlow,
+        "ds_lib3": PyTorch}
+  libraries= {"lib1" = Pandas,
+              "lib2"= Matplotlib,
+              "lib3" = NumPy,
+              "lib4"= SciPy,
+              "lib5" = SymPy,
+              "lib6"= Seaborn,
+              "lib7" = SciKit-Learn,
+              "lib8"= PyFolio
+              "lib9" = qt}
 ```
 ```py
 def currently_learning():
