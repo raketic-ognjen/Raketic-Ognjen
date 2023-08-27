@@ -31,7 +31,7 @@ past experiences:
 fields_of_interests: ["Investment Banking", "Risk Modelling", "Data Science", "Financial Computing", 
                       "FinTech", "Machine Learning", "Optimization"]
 technical_background: ["Engineering", "Computer Science - Computational Finance"]
-skills: ["Languages: Python,R",
+skills: ["Languages: Python,R,SQL", 
         "DS/ML/DL: PyTorch, Keras, TensorFlow",
         "Python Libraries: Pandas, Matplotlib, NumPy, SciPy, SymPy, Seabor, SciKit-Learn"]
 currently_learning: ["Investment", "Machine Learning", "Risk Modelling", "Data Science"]
