@@ -44,7 +44,7 @@ def projects(name,programming_language,date):
               "programming_language" : Python
               "date" : 26.08.2023}
 
-def past experiences(position, company, job_description,location,years):
+def past_experiences(position, company, job_description,location,years):
   company1 = { "position": Consulting Engineer,
               "company": Furni,
               "job_description" : ML, Consulting & Coaching,
@@ -77,10 +77,10 @@ def past experiences(position, company, job_description,location,years):
               "year": 2015-2019}
 
 def technical_background(degree):
-  if degree== Msc_Engineer**2:
-    return ("Computer Science Engineer, Industiral Engineer")
-  else:
-    pass
+    if degree== Msc_Engineer**2:
+      return ("Computer Science Engineer, Industiral Engineer")
+    else:
+      pass
 
 def fields_of_interest(alpha,betha, gamma, research, readings, projects):
   FoE = { "alpha" : Investment Banking,
