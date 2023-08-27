@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here!;Husband;Father%20of%20the%20One;Master%20in%20Engineering^2;Fields%20of%20interest:;Innovations;FinTech;Machine%20Learning;Investment;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=539BF5&vCenter=true&pause=600&size=22" /></a>
 </p>
 
-<!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Raketic%20Ognjen%20CV%20-%20Minimalist.pdf)]) -->
+<!-- **Curriculum Vitae**: [cv.pdf]([(https://github.com/raketic-ognjen/Raketic-Ognjen/blob/main/Ognjen%20Raketic%20CV%20-%20DS.pdf)]) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) [![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ognjenr23)
