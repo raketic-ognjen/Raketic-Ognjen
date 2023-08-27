@@ -17,8 +17,8 @@ def bio(name,surname,location,job,education,company=None):
   location = Vrbas, Serbia
   job = Open to Work
   education = [Masters Student in Computational Science 2022-2023,
-               Masters in Engineering Management 2019-2020,
-               Bachelors in Engineering Management 2015-2019]
+               Masters Degree in Engineering Management 2019-2020,
+               Bachelors Degree in Engineering Management 2015-2019]
   company = None
 
 def family():
@@ -77,7 +77,7 @@ def past experiences(position, company, job_description,location,years):
               "year": 2015-2019}
 
 def technical_background(degree):
-  if degree==Engineer**2:
+  if degree== Msc_Engineer**2:
     return ("Computer Science Engineer, Industiral Engineer")
   else:
     pass
