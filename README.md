@@ -16,9 +16,9 @@ def bio(name,surname,location,job,education,company=None):
   surname = Raketic
   location = Vrbas, Serbia
   job = Open to Work
-  education = [Master's student in Computational Science 2022-2023,
-               Master's in Engineering Management 2019-2020,
-               Bachelor's in Engineering Management 2015-2019]
+  education = [Masters Student in Computational Science 2022-2023,
+               Masters in Engineering Management 2019-2020,
+               Bachelors in Engineering Management 2015-2019]
   company = None
 
 def family():
