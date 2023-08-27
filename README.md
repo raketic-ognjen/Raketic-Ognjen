@@ -20,7 +20,8 @@ def bio(name,surname,location,job,education,company=None):
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
   company = None
-
+```
+```py
 def family():
   fam = {"Wife" : Irena,
          "Since" : 11.01.2016,
@@ -45,6 +46,7 @@ def projects(name,programming_language,date):
               "programming_language" : Python
               "date" : 26.08.2023}
 ```
+```py
 def past_experiences(position, company, job_description,location,years):
   company1 = { "position": Consulting Engineer,
               "company": Furni,
@@ -76,13 +78,15 @@ def past_experiences(position, company, job_description,location,years):
               "job_description" : Production Planning & Agile Transformator,
               "location": Vrbas,
               "year": 2015-2019}
-
+```
+```py
 def technical_background(degree):
     if degree== Msc_Engineer**2:
       return ("Computer Science Engineer, Industiral Engineer")
     else:
       pass
-
+```
+```py
 def fields_of_interest(alpha,betha, gamma, research, readings, projects):
   FoE = { "alpha" : Investment Banking,
           "betha" : Risk Modelling,
@@ -90,12 +94,14 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
           "research" : FinTech,
           "readings" : Financial Computings,
           "projects" : Optimizations In Investments}
-
+```
+```py
 def skills(languages,ds,libraries):
   languages = [Python, R, SQL]
   ds = [PyTorch, Keras, TensorFlow]
   librarries = [Pandas, Matplotlib, NumPy, SciPy, SymPy, Seaborn, SciKit-Learn]
-
+```
+```py
 def currently_learning():
   reading = {"Investment" : Bodie et al.,
              "Storytelling with data": Cole et al,,
@@ -107,7 +113,8 @@ def currently_learning():
   testing = { "Portfolio" : Python,
               "Derivatives" : Python,
               "Financial Data Analysis" : R}
-
+```
+```py
 def hobbies():
   hobby = {"Recovery" : Bike,
            "Reading" : Books,
