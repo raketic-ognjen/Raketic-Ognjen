@@ -28,15 +28,31 @@ def past experiences(position, company, job_description,location,years):
               "job_description" : ML, Consulting & Coaching,
               "location": Vrbas,
               "year": 2022-2023}
-  company2 = ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management",
-              "Novi Sad", "2022-2022"]
-  company3 = ["CTO & Engineer", "Inko National", "Finance & Production", "Vrbas", "2021-2022]
-  company4 = ["Research Consultant", "PhiAcademy", "Scientific Researching  & Product Management",
-              "Fully Remote","2021-2021"]
-  company5 = ["Innovation Consultant", "INAT Summit", "Agile & DT, Project Management",
-              "Fully Remote", "2017-2021"]
-  company6 = ["Shift Leader ", "Vital", "Production planning & Agile Transformator",
-              "Vrbas", "2015-2019"]
+  company2 = { "Position":Process Engineer,
+              "Company": Vendomnia,
+              "job_description" : Consulting, ISO Standards & Project Management,
+              "location": Novi Sad,
+              "year": 2022-2022}
+  company3 = { "Position":CTO & Engineer,
+              "Company": INKO National,
+              "job_description" : Finance & Production,
+              "location": Vrbas,
+              "year": 2021-2022}
+  company4 = { "Position":Research Consultant,
+              "Company": PhiAcademy,
+              "job_description" : Scientific Researching  & Product Management,
+              "location": Fully Remote,
+              "year": 2021-2021}
+  company5 = { "Position": Innovation Consultant,
+              "Company": INAT Centre,
+              "job_description" : Agile & DT, Project Management,
+              "location": Fully Remote,
+              "year": 2017-2021}
+  company6 = { "Position": Shift Leader,
+              "Company": Vital A.D Vrbas,
+              "job_description" : Production planning & Agile Transformator,
+              "location": Vrbas,
+              "year": 2015-2019}
 
 
 
