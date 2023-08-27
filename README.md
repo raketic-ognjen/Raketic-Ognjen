@@ -111,7 +111,7 @@ def skills(languages,ds,libraries):
               "lib6"= Seaborn,
               "lib7" = SciKit-Learn,
               "lib8"= PyFolio
-              "lib9" = qt}
+              "lib9" = QuantFormulas(My Own Library)}
 ```
 ```py
 def currently_learning():
