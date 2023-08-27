@@ -16,7 +16,7 @@ def bio(name,surname,location,job,education,company=None):
   surname = str('Raketic')
   location = str('Vrbas, Serbia')
   job = str('Open to Work)
-  education = str('Master'\ns student in Computational Science 2022-2023, Master'\ns in Engineering Management 2019-2020,    Bachelor'\ns in Engineering Management 2015-2019')
+  education = str('Master\n's student in Computational Science 2022-2023, Master'\ns in Engineering Management 2019-2020,    Bachelor'\ns in Engineering Management 2015-2019')
   company: str('Open to Work)
 print(f'Hi there, I am {name}{surname}, come from {location}, and I am {education} by vocation.
       Currently, I am {company}')
