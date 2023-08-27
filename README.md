@@ -16,9 +16,9 @@ def bio(name,surname,location,job,education,company=None):
   surname = str("Raketic")
   location = str("Vrbas, Serbia")
   job = str("Open to Work")
-  education = ["Master's student in Computational Science 2022-2023,
-  Master's in Engineering Management 2019-2020,
-  Bachelor's in Engineering Management 2015-2019"]
+  education = ["Master's student in Computational Science 2022-2023",
+  "Master's in Engineering Management 2019-2020",
+  "Bachelor's in Engineering Management 2015-2019""]
   company: str("Open to Work")
 
 
