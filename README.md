@@ -12,61 +12,91 @@
 
 ```py
 def bio(name,surname,location,job,education,company=None):
-  name = str("Ognjen")
-  surname = str("Raketic")
-  location = str("Vrbas, Serbia")
-  job = str("Open to Work")
-  education = ["Master's student in Computational Science 2022-2023",
-               "Master's in Engineering Management 2019-2020",
-               "Bachelor's in Engineering Management 2015-2019"]
-  company: str("Open to Work")
+  name = Ognjen
+  surname = Raketic
+  location = Vrbas, Serbia
+  job = Open to Work
+  education = [Master's student in Computational Science 2022-2023,
+               Master's in Engineering Management 2019-2020,
+               Bachelor's in Engineering Management 2015-2019]
+  company = None
 
+def family():
+  fam = {"wife" : Irena,
+         "Since" : 26.06.2021,
+         "Kid" : Srdja
+         "Since": 27.11.2021:}
 
 def past experiences(position, company, job_description,location,years):
-  company1 = { "Position": Consulting Engineer,
-              "Company": Furni,
+  company1 = { "position": Consulting Engineer,
+              "company": Furni,
               "job_description" : ML, Consulting & Coaching,
               "location": Vrbas,
               "year": 2022-2023}
-  company2 = { "Position":Process Engineer,
-              "Company": Vendomnia,
+  company2 = { "position":Process Engineer,
+              "company": Vendomnia,
               "job_description" : Consulting, ISO Standards & Project Management,
               "location": Novi Sad,
               "year": 2022-2022}
-  company3 = { "Position":CTO & Engineer,
-              "Company": INKO National,
+  company3 = { "position":CTO & Engineer,
+              "company": INKO National,
               "job_description" : Finance & Production,
               "location": Vrbas,
               "year": 2021-2022}
-  company4 = { "Position":Research Consultant,
-              "Company": PhiAcademy,
+  company4 = { "position": Research Consultant,
+              "company": PhiAcademy,
               "job_description" : Scientific Researching  & Product Management,
               "location": Fully Remote,
               "year": 2021-2021}
-  company5 = { "Position": Innovation Consultant,
-              "Company": INAT Centre,
+  company5 = { "position": Innovation Consultant,
+              "company": INAT Centre,
               "job_description" : Agile & DT, Project Management,
               "location": Fully Remote,
               "year": 2017-2021}
-  company6 = { "Position": Shift Leader,
-              "Company": Vital A.D Vrbas,
+  company6 = { "position": Shift Leader,
+              "company": Vital A.D Vrbas,
               "job_description" : Production planning & Agile Transformator,
               "location": Vrbas,
               "year": 2015-2019}
+def technical_background(degree):
+  if degree==Engineer**2:
+    return ("Computer Science Engineer, Industiral Engineer")
+  else:
+    pass
 
+def fields_of_interest(alpha,betha, gamma, research, readings, projects):
+  FoE = { "alpha" : Investment Banking,
+          "betha" : Risk Modelling,
+          "gamma" : Data Science,
+          "research" : FinTech,
+          "readings" : Financial Computings,
+          "projects" : Optimizations in Investments}
 
+def skills(languages,ds,libraries):
+  languages = [Python, R, SQL]
+  ds = [PyTorch, Keras, TensorFlow]
+  librarries = [Pandas, Matplotlib, NumPy, SciPy, SymPy, Seaborn, SciKit-Learn]
 
-fields_of_interests: ["Investment Banking", "Risk Modelling", "Data Science", "Financial Computing", 
-                      "FinTech", "Machine Learning", "Optimization"]
-technical_background: ["Engineering", "Computer Science - Computational Finance"]
-skills: ["Languages: Python,R,SQL", 
-        "DS/ML/DL: PyTorch, Keras, TensorFlow",
-        "Python Libraries: Pandas, Matplotlib, NumPy, SciPy, SymPy, Seabor, SciKit-Learn"]
-currently_learning: ["Investment", "Machine Learning", "Risk Modelling", "Data Science"]
-will_learn: ["FinTech"]
-hobbies: ["Bike", "Books", "Judo", "Wines", "Scientifics research"]
+def currently_learning():
+  reading = {"Investment" : Bodie et al.,
+             "Storytelling with data": Cole et al,,
+             "Options, Futures and Other Derivatives" : John C. Hull,
+             "Effective Data Storytelling" : Brent Dykes
+             "Robust Portfolio optimization and Management" : Frank J.Fabozzi et al.,
+             "Asset Management" : Andrew Ang,
+             "Black Swan" : Nassim Nicholas Taleb}
+  testing = { "Portfolio" : Python
+              "Derivatives" : Python
+              "Financial Data Analysis" : R 
+
+def hobbies():
+  hobby = {"Recovery" : Bike,
+           "Reading" : Books,
+           "Training" : Judo/BJJ(on hold due to TCL),
+           "Storytelling: Wines & Food,
+           "Academics" : Write Sci papers,
+           "Travel : Across the Globe}
 ```
----
 
 <p>
 <a href="https://github.com/raketic-ognjen/MiniProject2-QuantInvestment">
