@@ -72,7 +72,7 @@ def past experiences(position, company, job_description,location,years):
               "year": 2017-2021}
   company6 = { "position": Shift Leader,
               "company": Vital A.D Vrbas,
-              "job_description" : Production planning & Agile Transformator,
+              "job_description" : Production Planning & Agile Transformator,
               "location": Vrbas,
               "year": 2015-2019}
 
@@ -88,7 +88,7 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
           "gamma" : Data Science,
           "research" : FinTech,
           "readings" : Financial Computings,
-          "projects" : Optimizations in Investments}
+          "projects" : Optimizations In Investments}
 
 def skills(languages,ds,libraries):
   languages = [Python, R, SQL]
@@ -98,9 +98,9 @@ def skills(languages,ds,libraries):
 def currently_learning():
   reading = {"Investment" : Bodie et al.,
              "Storytelling with data": Cole et al,,
-             "Options, Futures and Other Derivatives" : John C. Hull,
+             "Options, Futures & Other Derivatives" : John C. Hull,
              "Effective Data Storytelling" : Brent Dykes
-             "Robust Portfolio Optimization and Management" : Frank J.Fabozzi et al.,
+             "Robust Portfolio Optimization & Management" : Frank J.Fabozzi et al.,
              "Asset Management" : Andrew Ang,
              "Black Swan" : Nassim Nicholas Taleb}
   testing = { "Portfolio" : Python
@@ -110,7 +110,7 @@ def currently_learning():
 def hobbies():
   hobby = {"Recovery" : Bike,
            "Reading" : Books,
-           "Training" : Judo/BJJ(on hold due to TCL),
+           "Training" : Judo/BJJ(On Hold Due To TCL),
            "Storytelling: Wines & Food,
            "Academics" : Write Sci Papers,
            "Travel : Across The Globe}
