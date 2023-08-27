@@ -18,7 +18,8 @@ def bio(name,surname,location,job,education,company=None):
   job = str('Open to Work)
   education = str('Master'\ns student in Computational Science 2022-2023, Master'\ns in Engineering Management 2019-2020,    Bachelor'\ns in Engineering Management 2015-2019')
   company: str('Open to Work)
-return: print(f'Hi there, I am {name}{surname}, come from {location}, and I am {education} by vocation. Currently, I am {company}')
+print(f'Hi there, I am {name}{surname}, come from {location}, and I am {education} by vocation.
+      Currently, I am {company}')
 
 past experiences: 
   - ["Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
