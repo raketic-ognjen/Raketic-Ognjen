@@ -39,7 +39,7 @@ def projects(name,programming_language,date):
   project3 = {"name": CAPM & Factor Models,
               "programming_language" : Python
               "date" : 15.09.2023}
-  project4 = {"name": Finding Efficient frontier & Testing Portfolio Performances,
+  project4 = {"name": Finding Efficient Frontier & Testing Portfolio Performances,
               "programming_language" : Python
               "date" : 30.08.2023}
   project5 = {"name": Portfolio Optimization in Investment Part 1,
