@@ -27,6 +27,23 @@ def family():
          "Kid" : Srdja
          "Since": 27.11.2021:}
 
+def projects(name,programming_language,date):
+  project1 = {"name": Risk contributions on client portfolio,
+              "programming_language" : Python
+              "date" : 01.10.2023}
+  project2 = {"name": Making Real Portfolio & Prepare for MarketWatch,
+              "programming_language" : Python
+              "date" : 25.09.2023}
+  project3 = {"name": CAPM & Factor Models,
+              "programming_language" : Python
+              "date" : 15.09.2023}
+  project4 = {"name": Finding Efficient frontier & Testing Portfolio Performances,
+              "programming_language" : Python
+              "date" : 30.08.2023}
+  project5 = {"name": Portfolio Optimization in Investment part 1,
+              "programming_language" : Python
+              "date" : 26.08.2023}
+
 def past experiences(position, company, job_description,location,years):
   company1 = { "position": Consulting Engineer,
               "company": Furni,
@@ -58,6 +75,7 @@ def past experiences(position, company, job_description,location,years):
               "job_description" : Production planning & Agile Transformator,
               "location": Vrbas,
               "year": 2015-2019}
+
 def technical_background(degree):
   if degree==Engineer**2:
     return ("Computer Science Engineer, Industiral Engineer")
