@@ -22,13 +22,14 @@ def bio(name,surname,location,job,education,company=None):
   company: str("Open to Work")
 
 
-past experiences: 
-  - ["Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
-  - ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management", "Novi Sad", "2022-2022"]
-  - ["CTO & Engineer", "Inko National", "Finance & Production", "Vrbas", "2021-2022]
-  - ["Research Consultant", "PhiAcademy", "Scientific Researching  & Product Management", "Fully Remote", "2021-2021"]
-  - ["Innovation Consultant", "INAT Summit", "Agile & DT, Project Management", "Fully Remote", "2017-2021"]
-  - ["Shift Leader ", "Vital", "Production planning & Agile Transformator", "Vrbas", "2015-2019"]
+def past experiences(position, company, job_description,location,years):
+  company1 = [ "Consulting Engineer", "Furni ", " ML, Consulting & Coaching", "Vrbas", "2022-2023"]
+  company2 = ["Process Engineer", "Vendomnia", "Consulting, ISO Standards & Project Management", "Novi Sad", "2022-2022"]
+  company3 = ["CTO & Engineer", "Inko National", "Finance & Production", "Vrbas", "2021-2022]
+  company4 = ["Research Consultant", "PhiAcademy", "Scientific Researching  & Product Management",
+  "Fully Remote","2021-2021"]
+  company5 = ["Innovation Consultant", "INAT Summit", "Agile & DT, Project Management", "Fully Remote", "2017-2021"]
+  company6 = ["Shift Leader ", "Vital", "Production planning & Agile Transformator", "Vrbas", "2015-2019"]
 
 
 
