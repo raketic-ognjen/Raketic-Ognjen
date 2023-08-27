@@ -26,7 +26,8 @@ def family():
          "Since" : 11.01.2016,
          "Kid" : Srdja
          "Since": 27.11.2021}
-
+```
+```py
 def projects(name,programming_language,date):
   project1 = {"name": Risk Contributions On Client Portfolio,
               "programming_language" : Python
@@ -43,7 +44,7 @@ def projects(name,programming_language,date):
   project5 = {"name": Portfolio Optimization in Investment Part 1,
               "programming_language" : Python
               "date" : 26.08.2023}
-
+```
 def past_experiences(position, company, job_description,location,years):
   company1 = { "position": Consulting Engineer,
               "company": Furni,
