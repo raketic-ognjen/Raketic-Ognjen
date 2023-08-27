@@ -112,7 +112,7 @@ def hobbies():
            "Reading" : Books,
            "Training" : Judo/BJJ(on hold due to TCL),
            "Storytelling: Wines & Food,
-           "Academics" : Write Sci papers,
+           "Academics" : Write Sci Papers,
            "Travel : Across the Globe}
 ```
 
