@@ -109,8 +109,7 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
 def skills(languages,ds,libraries):
   languages = { "language1" : Python,
                 "language2" : R,
-                "language3" : Ruby,
-                "language4" : SQL}
+                "language3" : SQL}
   ds = {"ds_lib1": Keras,
         "ds_lib2": TensorFlow,
         "ds_lib3": PyTorch}
