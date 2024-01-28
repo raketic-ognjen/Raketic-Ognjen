@@ -106,14 +106,19 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
           "projects" : Optimizations In Investments}
 ```
 ```py
-def skills(languages,ds,libraries):
+def skills(languages,Frameworks, Libraries):
   languages = { "language1" : Python,
                 "language2" : R,
-                "language3" : SQL}
-  ds = {"ds_lib1": Keras,
-        "ds_lib2": TensorFlow,
-        "ds_lib3": PyTorch}
-  libraries= {"lib1" = Pandas,
+                "language3" : Ruby,
+                "language4" : JavaScript,
+                "language5" : SQL,
+                "language6" : HTML,
+                "language7" : CSS}
+ Frameworks = {"Framework 1": Node.js,
+        "Framework 2": React.js,
+        "Framework 3": Express.js,
+        "Framework 4": Rails}
+  DS libraries= {"lib1" = Pandas,
               "lib2"= Matplotlib,
               "lib3" = NumPy,
               "lib4"= SciPy,
