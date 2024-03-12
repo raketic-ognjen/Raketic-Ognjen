@@ -58,32 +58,42 @@ def projects(name,programming_language,date):
 ```
 ```py
 def past_experiences(position, company, job_description,location,years):
-  company1 = { "position": Consulting Engineer,
+  company1 = { "position": Junior M&A Analyst - Sell side,
+              "company": Mutadich Financial Advisory,
+              "job_description" : Financial Modelling, Consulting,
+              "location": Remote,
+              "year": 2024-Present}
+  company2 = { "position": Production Conusltant,
+              "company": Vital a.d.,
+              "job_description" : Consulting & Coaching,
+              "location": Vrbas,
+              "year": 2023-Present}
+  company3 = { "position": Consulting Engineer,
               "company": Furni,
               "job_description" : ML, Consulting & Coaching,
               "location": Vrbas,
               "year": 2022-2023}
-  company2 = { "position":Process Engineer,
+  company4 = { "position":Process Engineer,
               "company": Vendomnia,
               "job_description" : Consulting, ISO Standards & Project Management,
               "location": Novi Sad,
               "year": 2022-2022}
-  company3 = { "position":CTO & Engineer,
+  company5 = { "position":CTO & Engineer,
               "company": INKO National,
               "job_description" : Finance & Production,
               "location": Vrbas,
               "year": 2021-2022}
-  company4 = { "position": Research Consultant,
+  company6 = { "position": Research Consultant,
               "company": PhiAcademy,
               "job_description" : Scientific Researching  & Product Management,
               "location": Fully Remote,
               "year": 2021-2021}
-  company5 = { "position": Innovation Consultant,
+  company7 = { "position": Innovation Consultant,
               "company": INAT Centre,
               "job_description" : Agile & DT, Project Management,
               "location": Fully Remote,
               "year": 2017-2021}
-  company6 = { "position": Shift Leader,
+  company8 = { "position": Shift Leader,
               "company": Vital A.D Vrbas,
               "job_description" : Production Planning & Agile Transformator,
               "location": Vrbas,
