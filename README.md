@@ -161,14 +161,6 @@ def hobbies():
            "Travel" : Across The Globe}
 ```
 
-<p>
-<a href="https://github.com/raketic-ognjen/Market-Watch-Tech-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raketic-ognjen&repo=Market-Watch-Tech-Analysist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/raketic-ognjen/Homework1_QuantInvestment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raketic-ognjen&repo=Homework1_QuantInvestment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-  </p>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=2v2d5mt10rm2k1ib8l4jv37gm&cover_image=true&&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
