@@ -58,7 +58,7 @@ def projects(name,programming_language,date):
 ```
 ```py
 def past_experiences(position, company, job_description,location,years):
-  company1 = { "position": Junior M&A Analyst - Sell side,
+  company1 = { "position": Junior M&A Analyst - Sell Side,
               "company": Mutadich Financial Advisory,
               "job_description" : Financial Modelling, Consulting,
               "location": Remote,
