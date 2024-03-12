@@ -162,7 +162,7 @@ def hobbies():
 ```
 
 <p>
-<a href="https://github.com/raketic-ognjen/MiniProject2-QuantInvestment">
+<a href="https://github.com/raketic-ognjen/Market-Watch-Tech-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raketic-ognjen&repo=Market-Watch-Tech-Analysist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/raketic-ognjen/Homework1_QuantInvestment">
