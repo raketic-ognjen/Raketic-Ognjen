@@ -23,11 +23,11 @@ def bio(name,surname,nick,location,job,education,company=None):
   else:
     return nick = name + surname
   location = Vrbas, Serbia
-  job = Open To Work
+  job = Hired
   education = [Masters Student in Computational Science 2022-2023,
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
-  company = None
+  company = Mutadich Financial Advisory & Vital A.D.
 ```
 ```py
 def family():
