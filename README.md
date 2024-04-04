@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/raketic-ognjenreadme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here;Husband;Father%20of%20One;Master%20in%20Engineering^2;Fields%20of%20interest:;Mergers and Acquisitions;Machine%20Learning;Investments;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=539BF5&vCenter=true&pause=600&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here;Husband;Father%20of%20One;Master%20in%20Engineering^2;Fields%20of%20interest:;Mergers%20&%20Acquisitions;Sales;Investments;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=539BF5&vCenter=true&pause=600&size=22" /></a>
 </p>
 
 ## 🌐 Socials:
@@ -101,7 +101,7 @@ def past_experiences(position, company, job_description,location,years):
 ```
 ```py
 def technical_background(degree):
-    if degree== Msc_Engineer**2:
+    if degree == Msc_Engineer**2:
       return ("Computer Science Engineer, Industiral Engineer")
     else:
       pass
@@ -109,7 +109,7 @@ def technical_background(degree):
 ```py
 def fields_of_interest(alpha,betha, gamma, research, readings, projects):
   FoE = { "alpha" : Investment Banking,
-          "betha" : Risk Modelling,
+          "betha" : Mergers & Acquisition,
           "gamma" : Data Science,
           "research" : FinTech,
           "readings" : Financial Computings,
@@ -119,15 +119,7 @@ def fields_of_interest(alpha,betha, gamma, research, readings, projects):
 def skills(languages,Frameworks, Libraries):
   languages = { "language1" : Python,
                 "language2" : R,
-                "language3" : Ruby,
-                "language4" : JavaScript,
-                "language5" : SQL,
-                "language6" : HTML,
-                "language7" : CSS}
- Frameworks = {"Framework 1": Node.js,
-        "Framework 2": React.js,
-        "Framework 3": Express.js,
-        "Framework 4": Rails}
+                "language3" : SQL,
   DS libraries= {"lib1" = Pandas,
               "lib2"= Matplotlib,
               "lib3" = NumPy,
@@ -135,8 +127,8 @@ def skills(languages,Frameworks, Libraries):
               "lib5" = SymPy,
               "lib6"= Seaborn,
               "lib7" = SciKit-Learn,
-              "lib8"= PyFolio
-              "lib9" = QuantFormulas(My Own Library)}
+              "lib8"= PyFolio,
+              "lib9" = QuantFormulas(My Own Library)},
 ```
 ```py
 def currently_learning():
