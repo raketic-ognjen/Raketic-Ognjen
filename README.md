@@ -107,7 +107,7 @@ def fields_of_interest(alpha,beta, gamma, research, readings, projects):
 def hobbies():
   hobby = {"Recovery" : Bike,
            "Reading" : Books,
-           "Training" : Judo/BJJ(On Hold Due To TCL),
+           "Training" : Gym, Walk,
            "Storytelling": Wines & Food,
            "Academics" : Write Sci Papers,
            "Travel" : Across The Globe}
