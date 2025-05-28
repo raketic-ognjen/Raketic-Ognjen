@@ -95,9 +95,9 @@ def technical_background(degree):
       pass
 ```
 ```py
-def fields_of_interest(alpha,betha, gamma, research, readings, projects):
+def fields_of_interest(alpha,beta, gamma, research, readings, projects):
   FoE = { "alpha" : Maintenance,
-          "betha" : Analytics,
+          "beta" : Analytics,
           "gamma" : Strategy,
           "research" : Smart Maintenance,
           "readings" : Lean Maintenance,
