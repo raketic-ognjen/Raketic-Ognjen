@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/raketic-ognjenreadme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ognjen%20is%20here;Husband;Father%20of%20One;Master%20in%20Engineering**2;Fields%20of%20interest:;Mergers%20and%20Acquisitions;Sales;Investments;Programming; Wines&font=Roboto%20Slab%20Code&center=true&width=540&height=55&color=539BF5&vCenter=true&pause=600&size=22" /></a>
-</p>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ognjen-raketic/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ognjen_MCF) [![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ognjenr23)
 
@@ -23,8 +18,9 @@ def bio(name,surname,nick,location,job,education,company=None):
   else:
     return nick = name + surname
   location = Vrbas, Serbia
-  job = Hired
-  education = [Masters Student in Computational Science 2022-2023,
+  job = Hired, Open to Work
+  education = [PhD in Industrial Engineering 2020-Present
+               Masters Student in Computational Science 2022-2023,
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
   company = Mutadich Financial Advisory & Vital A.D.
@@ -35,65 +31,57 @@ def family():
          "Since" : 11.01.2016,
          "Kid" : Srdja
          "Since": 27.11.2021
-         "Kid": Another boy
-         "Since": To be decided in May}
+         "Kid": Niko
+         "Since": 16.05.2024.}
 ```
 ```py
-def projects(name,programming_language,date):
-  project1 = {"name": Risk Contributions On Client Portfolio,
-              "programming_language" : Python
-              "date" : 01.10.2023}
-  project2 = {"name": Making Real Portfolio & Prepare for MarketWatch,
-              "programming_language" : Python
-              "date" : 25.09.2023}
-  project3 = {"name": CAPM & Factor Models,
-              "programming_language" : Python
-              "date" : 15.09.2023}
-  project4 = {"name": Finding Efficient Frontier & Testing Portfolio Performances,
-              "programming_language" : Python
-              "date" : 30.08.2023}
-  project5 = {"name": Portfolio Optimization in Investment Part 1,
-              "programming_language" : Python
-              "date" : 26.08.2023}
+def projects(name):
+  project1 = {"name": Zero Downtime Initiative: A TPM Rollout for a Critical Production Line
+              }
+  project2 = {"name": Unlocking Equipment Reliability: MTTR & MTBF Analytics for Failure Reduction
+              }
+  project3 = {"name": Lean Maintenance Transformation: Eliminating the 8 Wastes with VSM and Kaizen
+              }
+  project4 = {"name": From Failure Modes to Strategy: A Reliability-Centered Maintenance (RCM) Blueprint
+              }              
+  project5 = {"name": Maintenance Performance Dashboard: Visualizing What Matters in Real Time
+              }
+  project6 = {"name": Yellow Belt Project for Six Sigma
+              }
 ```
 ```py
 def past_experiences(position, company, job_description,location,years):
-  company1 = { "position": Junior M&A Analyst - Sell Side,
-              "company": Mutadich Financial Advisory,
-              "job_description" : Financial Modelling, Consulting,
-              "location": Remote,
-              "year": 2024-Present}
-  company2 = { "position": Production Conusltant,
+    company1 = { "position": Technical Director for Maintenance and Energetics,
               "company": Vital a.d.,
-              "job_description" : Consulting & Coaching,
+              "job_description" : C-Level Management, Ledership, Coaching,
               "location": Vrbas,
               "year": 2023-Present}
-  company3 = { "position": Consulting Engineer,
+  company2 = { "position": Consulting Engineer,
               "company": Furni,
-              "job_description" : ML, Consulting & Coaching,
+              "job_description" : Consulting & Coaching,
               "location": Vrbas,
               "year": 2022-2023}
-  company4 = { "position":Process Engineer,
+  company3 = { "position":Process Engineer,
               "company": Vendomnia,
               "job_description" : Consulting, ISO Standards & Project Management,
               "location": Novi Sad,
               "year": 2022-2022}
-  company5 = { "position":CTO & Engineer,
+  company4 = { "position":CTO & Engineer,
               "company": INKO National,
               "job_description" : Finance & Production,
               "location": Vrbas,
               "year": 2021-2022}
-  company6 = { "position": Research Consultant,
+  company5 = { "position": Research Consultant,
               "company": PhiAcademy,
               "job_description" : Scientific Researching  & Product Management,
               "location": Fully Remote,
               "year": 2021-2021}
-  company7 = { "position": Innovation Consultant,
+  company6 = { "position": Innovation Consultant,
               "company": INAT Centre,
               "job_description" : Agile & DT, Project Management,
               "location": Fully Remote,
               "year": 2017-2021}
-  company8 = { "position": Shift Leader,
+  company7 = { "position": Shift Leader,
               "company": Vital A.D Vrbas,
               "job_description" : Production Planning & Agile Transformator,
               "location": Vrbas,
@@ -108,40 +96,12 @@ def technical_background(degree):
 ```
 ```py
 def fields_of_interest(alpha,betha, gamma, research, readings, projects):
-  FoE = { "alpha" : Investment Banking,
-          "betha" : Mergers & Acquisition,
-          "gamma" : Data Science,
-          "research" : FinTech,
-          "readings" : Financial Computings,
-          "projects" : Optimizations In Investments}
-```
-```py
-def skills(languages,Frameworks, Libraries):
-  languages = { "language1" : Python,
-                "language2" : R,
-                "language3" : SQL,
-  DS libraries= {"lib1" = Pandas,
-              "lib2"= Matplotlib,
-              "lib3" = NumPy,
-              "lib4"= SciPy,
-              "lib5" = SymPy,
-              "lib6"= Seaborn,
-              "lib7" = SciKit-Learn,
-              "lib8"= PyFolio,
-              "lib9" = QuantFormulas(My Own Library)},
-```
-```py
-def currently_learning():
-  reading = {"Investment" : Bodie et al.,
-             "Storytelling with data": Cole et al,,
-             "Options, Futures & Other Derivatives" : John C. Hull,
-             "Effective Data Storytelling" : Brent Dykes,
-             "Robust Portfolio Optimization & Management" : Frank J.Fabozzi et al.,
-             "Asset Management" : Andrew Ang,
-             "Black Swan" : Nassim Nicholas Taleb}
-  testing = { "Portfolio" : Python,
-              "Derivatives" : Python,
-              "Financial Data Analysis" : R}
+  FoE = { "alpha" : Maintenance,
+          "betha" : Analytics,
+          "gamma" : Strategy,
+          "research" : Smart Maintenance,
+          "readings" : Lean Maintenance,
+          "projects" : Upgrade of Maintenance}
 ```
 ```py
 def hobbies():
