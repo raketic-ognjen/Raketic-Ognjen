@@ -23,7 +23,7 @@ def bio(name,surname,nick,location,job,education,company=None):
                Masters Student in Computational Science 2022-2023,
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
-  company = Mutadich Financial Advisory & Vital A.D.
+  company =  Vital A.D.
 ```
 ```py
 def family():
