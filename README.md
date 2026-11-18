@@ -18,12 +18,11 @@ def bio(name,surname,nick,location,job,education,company=None):
   else:
     return nick = name + surname
   location = Vrbas, Serbia
-  job = Hired, Open to Work
-  education = [PhD in Industrial Engineering 2020-Present
-               Masters Student in Computational Science 2022-2023,
+  job = Open to Work
+  education = [Masters Degree in Computational Science 2023-2026,
                Masters Degree in Engineering Management 2019-2020,
                Bachelors Degree in Engineering Management 2015-2019]
-  company =  Vital A.D.
+  company =  Papir Print
 ```
 ```py
 def family():
@@ -36,56 +35,23 @@ def family():
 ```
 ```py
 def projects(name):
-  project1 = {"name": Zero Downtime Initiative: A TPM Rollout for a Critical Production Line
-              }
-  project2 = {"name": Unlocking Equipment Reliability: MTTR & MTBF Analytics for Failure Reduction
-              }
-  project3 = {"name": Lean Maintenance Transformation: Eliminating the 8 Wastes with VSM and Kaizen
-              }
-  project4 = {"name": From Failure Modes to Strategy: A Reliability-Centered Maintenance (RCM) Blueprint
-              }              
-  project5 = {"name": Maintenance Performance Dashboard: Visualizing What Matters in Real Time
-              }
-  project6 = {"name": Yellow Belt Project for Six Sigma
+  project1 = {"name": Condition-Based Maintenance under Imprecise Self-Exciting Jump-Diffusion Degradation (WP1–WP3)
               }
 ```
 ```py
 def past_experiences(position, company, job_description,location,years):
-    company1 = { "position": Technical Director for Maintenance and Energetics,
+    company2 = { "position": Head of Maintenance,
+              "company": Papir Print d.o.o.,
+              "job_description" : Management, Ledership, Coaching,
+              "location": Gornji Milanovac,
+              "year": 2026-Present}
+
+    company2= { "position": Technical Director for Maintenance and Energetics,
               "company": Vital a.d.,
               "job_description" : C-Level Management, Ledership, Coaching,
               "location": Vrbas,
-              "year": 2023-Present}
-  company2 = { "position": Consulting Engineer,
-              "company": Furni,
-              "job_description" : Consulting & Coaching,
-              "location": Vrbas,
-              "year": 2022-2023}
-  company3 = { "position":Process Engineer,
-              "company": Vendomnia,
-              "job_description" : Consulting, ISO Standards & Project Management,
-              "location": Novi Sad,
-              "year": 2022-2022}
-  company4 = { "position":CTO & Engineer,
-              "company": INKO National,
-              "job_description" : Finance & Production,
-              "location": Vrbas,
-              "year": 2021-2022}
-  company5 = { "position": Research Consultant,
-              "company": PhiAcademy,
-              "job_description" : Scientific Researching  & Product Management,
-              "location": Fully Remote,
-              "year": 2021-2021}
-  company6 = { "position": Innovation Consultant,
-              "company": INAT Centre,
-              "job_description" : Agile & DT, Project Management,
-              "location": Fully Remote,
-              "year": 2017-2021}
-  company7 = { "position": Shift Leader,
-              "company": Vital A.D Vrbas,
-              "job_description" : Production Planning & Agile Transformator,
-              "location": Vrbas,
-              "year": 2015-2019}
+              "year": 2015-2025}
+  
 ```
 ```py
 def technical_background(degree):
@@ -99,13 +65,13 @@ def fields_of_interest(alpha,beta, gamma, research, readings, projects):
   FoE = { "alpha" : Maintenance,
           "beta" : Analytics,
           "gamma" : Strategy,
-          "research" : Smart Maintenance,
-          "readings" : Lean Maintenance,
+          "research" : Uncertain Quantification,
+          "readings" : Stochastic Modelling,
           "projects" : Upgrade of Maintenance}
 ```
 ```py
 def hobbies():
-  hobby = {"Recovery" : Bike,
+  hobby = {"Recovery" : Hike,
            "Reading" : Books,
            "Training" : Gym, Walk,
            "Storytelling": Wines & Food,
